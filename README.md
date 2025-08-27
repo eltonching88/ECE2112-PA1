@@ -7,11 +7,10 @@
 ### 3. [Unpacking List Problem]()
 
 
-
-## **Alphabet Soup Problem**
 <a name="anchor-alphabet_soup"></a>
+## **Alphabet Soup Problem**
 * Create a function that takes a string and returns a string with its letters in alphabetical order.
-* 
+
 Step 1. I defined the function `alphabet_soup` to convert all characters in the list `letters` to lowercase and sort the characters
 ``` python
 def alphabet_soup(word):
