@@ -8,14 +8,14 @@
 
 ## **Alphabet Soup Problem**
 Step 1. I defined the function 'alphabet_soup' to convert all characters in the list 'letters' to lowercase and sort the characters
-```
+``` python
 def alphabet_soup(word):
     # Convert to lowercase and sort the list
     letters = list(word.lower())
     letters.sort()
 ```
 Step 2. I created a string 'new' to store the arranged letters then used for loop to insert the letters to the string
-```  
+``` python
 # Output as string from list
 new = ""
 for i in letters:
