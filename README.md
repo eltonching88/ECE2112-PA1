@@ -182,4 +182,4 @@ Last:	 6
 
 <br/>
 
-**Nothing follows. Thank you for reading** 
+**Nothing follows. Thank you for reading!** 
