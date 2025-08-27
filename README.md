@@ -7,12 +7,12 @@
 
 ## Alphabet Soup Problem
 ## 1. Define
-'''
-def alphabet_soup(word):
-    # Convert to lowercase and sort the list
-    letters = list(word.lower())
-    letters.sort()
-'''
+    '''
+    def alphabet_soup(word):
+        # Convert to lowercase and sort the list
+        letters = list(word.lower())
+        letters.sort()
+    '''
 
     # Output as string from list
     new = ""
