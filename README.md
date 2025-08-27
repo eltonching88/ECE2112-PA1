@@ -13,13 +13,14 @@
         letters = list(word.lower())
         letters.sort()
     '''
-
+## 2. 
+    
     # Output as string from list
     new = ""
     for i in letters:
         new += i
     return new
-
-# User input
-word = input("Enter a word: ")
-alphabet_soup(word)
+## 3.
+    # User input
+    word = input("Enter a word: ")
+    alphabet_soup(word)
