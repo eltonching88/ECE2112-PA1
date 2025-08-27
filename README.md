@@ -2,8 +2,8 @@
 
 ## Table of Contents
 ### [Alphabet Soup Problem](https://github.com/eltonching88/ECE2112-Projects?tab=readme-ov-file#alphabet-soup-problem-1)
-### Emoticon Problem: (link)
-### Unpacking List Problem
+### [Emoticon Problem]()
+### [Unpacking List Problem]()
 
 ## **Alphabet Soup Problem**
 ### 1. I defined the function 'alphabet_soup' to convert all characters in the list 'letters' to lowercase and sort the characters
