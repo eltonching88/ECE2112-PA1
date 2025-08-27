@@ -15,8 +15,6 @@ def alphabet_soup(word):
     letters.sort()
 ```
 Step 2. I created a string 'new' to store the arranged letters then used for loop to insert the letters to the string
-> [!Imp]
-> Key information users need to know to achieve their goal.
 ```  
 # Output as string from list
 new = ""
