@@ -1,12 +1,12 @@
 # ECE2112 Programming Assignment 1
 
 ## Table of Contents
-# Alphabet Soup Problem:
-# Emoticon Problem: (link)
-# Unpacking List Problem
+### Alphabet Soup Problem:
+### Emoticon Problem: (link)
+### Unpacking List Problem
 
 ## Alphabet Soup Problem
-# 1. Define
+## 1. Define
 '''
 def alphabet_soup(word):
     # Convert to lowercase and sort the list
