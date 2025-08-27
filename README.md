@@ -5,10 +5,9 @@
 ### 2. [Emoticon Problem]()
 ### 3. [Unpacking List Problem]()
 
-Hello 
 
 ## **Alphabet Soup Problem**
-### Step 1. I defined the function 'alphabet_soup' to convert all characters in the list 'letters' to lowercase and sort the characters
+Step 1. I defined the function 'alphabet_soup' to convert all characters in the list 'letters' to lowercase and sort the characters
 ```
 def alphabet_soup(word):
     # Convert to lowercase and sort the list
