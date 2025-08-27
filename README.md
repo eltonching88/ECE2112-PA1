@@ -6,7 +6,7 @@
 ### Unpacking List Problem
 
 ## Alphabet Soup Problem
-## 1. Define
+## 1. I defined the function 'alphabet_soup' to convert all characters in the list 'letters' to lowercase and sort the characters
     '''
     def alphabet_soup(word):
         # Convert to lowercase and sort the list
