@@ -1,5 +1,7 @@
-# ECE2112 Programming Assignment 1 (Python)
+<h1 align="center"> ECE2112 Programming Assignment 1 (Python) </h1>
+
 <a id="top"></a>
+
 ## Table of Contents
 ### 1. [Alphabet Soup Problem](#anchor-alphabet_soup)
 ### 2. [Emoticon Problem](#anchor-emoticon)
