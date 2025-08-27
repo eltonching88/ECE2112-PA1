@@ -1,10 +1,14 @@
-# ECE2112-Projects
+# ECE2112 Programming Assignment 1
 
-# 1. ALPHABET SOUP PROBLEM
+# Table of Contents
+
+## 1. Alphabet Soup Problem
+'''
 def alphabet_soup(word):
     # Convert to lowercase and sort the list
     letters = list(word.lower())
     letters.sort()
+'''
 
     # Output as string from list
     new = ""
