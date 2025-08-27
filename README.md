@@ -98,7 +98,7 @@ def unpack(lst):
 ```
 <br/>
 
-**Step 2.** In the same function, the value in between the first and last is looping through the list `lst`. The variable `middle` stores the values as string to output it later as part of a text. Then, I store the list's length in `n`. I can now begin the for loop within the range 1 to n-1 since I need to output the 2nd and the 2nd to the last indexes' values. The `value` stores the numbers and adds it to `middle` for each iteration.
+**Step 2.** In the same function, the values in between the first and last loops through the list `lst`. The variable `middle` stores the values as string to output it as part of a text. Then, I store the list's length in `n`. I can now begin the for loop within the range 1 to n-1 since I need to output the second and the second to the last indexes' values. The `value` stores the numbers and adds it to `middle` for each iteration.
 ``` python
     # Get the value in between
     middle = ""
