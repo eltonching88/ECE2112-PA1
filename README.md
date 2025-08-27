@@ -13,14 +13,15 @@ def alphabet_soup(word):
     # Convert to lowercase and sort the list
     letters = list(word.lower())
     letters.sort()
-```    
-### Step 2. 
-    
-    # Output as string from list
-    new = ""
-    for i in letters:
-        new += i
-    return new
+```
+Step 2. 
+```  
+# Output as string from list
+new = ""
+for i in letters:
+    new += i
+return new
+```
 ## 3.
     # User input
     word = input("Enter a word: ")
