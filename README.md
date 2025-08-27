@@ -1,7 +1,7 @@
 # ECE2112 Programming Assignment 1
 
 ## Table of Contents
-### Alphabet Soup Problem:
+### Alphabet Soup Problem: https://github.com/eltonching88/ECE2112-Projects?tab=readme-ov-file#alphabet-soup-problem-1
 ### Emoticon Problem: (link)
 ### Unpacking List Problem
 
