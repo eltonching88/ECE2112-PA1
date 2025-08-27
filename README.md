@@ -1,4 +1,4 @@
-# ECE2112 Programming Assignment 1
+# ECE2112 Programming Assignment 1 (Python)
 
 ## Table of Contents
 ### 1. [Alphabet Soup Problem](https://github.com/eltonching88/ECE2112-Projects?tab=readme-ov-file#alphabet-soup-problem-1)
@@ -7,7 +7,9 @@
 
 
 ## **Alphabet Soup Problem**
-Step 1. I defined the function 'alphabet_soup' to convert all characters in the list 'letters' to lowercase and sort the characters
+* Create a function that takes a string and returns a string with its letters in alphabetical order.
+* 
+Step 1. I defined the function `alphabet_soup` to convert all characters in the list `letters` to lowercase and sort the characters
 ``` python
 def alphabet_soup(word):
     # Convert to lowercase and sort the list
