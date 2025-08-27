@@ -114,7 +114,7 @@ def unpack(lst):
 > The if statement is optional and only makes the output readable.
 <br/>
 
-**Step 3.** In the same function, I simply print the output for each variable and return nothing to the main function.
+**Step 3.** In the same function, I simply print the output for each variable and return to the main function.
 ``` python
     print("First:\t" + str(first))
     print("Middle:\t[" + middle + "]")
