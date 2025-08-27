@@ -1,5 +1,5 @@
 # ECE2112 Programming Assignment 1 (Python)
-
+<a id="top"></a>
 ## Table of Contents
 ### 1. [Alphabet Soup Problem](#anchor-alphabet_soup)
 ### 2. [Emoticon Problem](#anchor-emoticon)
@@ -183,3 +183,5 @@ Last:	 6
 <br/>
 
 **Nothing follows. Thank you for reading!** 
+
+<p align="right"> (<a href="#top">Back to Top</a>) </p>
